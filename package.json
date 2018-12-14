@@ -1,0 +1,23 @@
+{
+  "name": "azurebot2018",
+  "version": "1.0.0",
+  "description": "azurebot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gridl/AzureBot2018.git"
+  },
+  "author": "Dimitri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gridl/AzureBot2018/issues"
+  },
+  "homepage": "https://github.com/gridl/AzureBot2018#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.3.0"
+  }
+}
